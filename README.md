@@ -13,7 +13,7 @@ A política pode ser visualizada publicamente através do link gerado pelo GitHu
 ## 🛠️ Informações do Aplicativo
 * **Nome do App:** Guia Fácil
 * **Desenvolvedor:** Uniprotel Eletrônica
-* **E-mail de Contato/Suporte:** assistência@uniproteleletronica.com.br
+* **E-mail de Contato/Suporte:** assistencia@uniproteleletronica.com.br
 
 ## ⚖️ Conformidade Legal
 O documento hospedado neste repositório foi elaborado em total conformidade com:
