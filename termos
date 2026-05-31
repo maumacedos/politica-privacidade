@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Termos de Uso - Guia Fácil</title>
+    <style>
+        /* Estilos Globais */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333333;
+            background-color: #f4f6f9;
+            padding: 0;
+        }
+
+        /* Container Principal */
+        .container {
+            max-width: 850px;
+            margin: 40px auto;
+            background: #ffffff;
+            padding: 50px;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        }
+
+        /* Cabeçalho */
+        header {
+            border-bottom: 2px solid #edf2f7;
+            padding-bottom: 25px;
+            margin-bottom: 35px;
+        }
+
+        h1 {
+            font-size: 26px;
+            color: #1a202c;
+            margin-bottom: 8px;
+        }
+
+        .company-info {
+            font-size: 15px;
+            color: #4a5568;
+            background-color: #f7fafc;
+            padding: 15px;
+            border-left: 4px solid #3182ce;
+            border-radius: 4px;
+            margin-top: 15px;
+        }
+
+        /* Conteúdo e Seções */
+        h2 {
+            font-size: 18px;
+            color: #2b6cb0;
+            margin-top: 30px;
+            margin-bottom: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        p {
+            margin-bottom: 16px;
+            text-align: justify;
+            color: #2d3748;
+        }
+
+        ul {
+            margin-left: 25px;
+            margin-bottom: 20px;
+        }
+
+        li {
+            margin-bottom: 8px;
+            color: #2d3748;
+        }
+
+        .highlight-box {
+            background-color: #ebf8ff;
+            border: 1px solid #bee3f8;
+            padding: 15px;
+            border-radius: 6px;
+            margin: 20px 0;
+        }
+
+        /* Rodapé */
+        footer {
+            margin-top: 50px;
+            padding-top: 25px;
+            border-top: 1px solid #edf2f7;
+            text-align: center;
+            font-size: 14px;
+            color: #718096;
+        }
+
+        /* Responsividade */
+        @media (max-width: 768px) {
+            .container {
+                margin: 0;
+                padding: 20px;
+                border-radius: 0;
+                box-shadow: none;
+            }
+            
+            h1 {
+                font-size: 22px;
+            }
+
+            h2 {
+                font-size: 16px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Termos e Condições Gerais de Uso do Aplicativo</h1>
+            <p><strong>Aplicativo:</strong> Guia Fácil</p>
+            
+            <div class="company-info">
+                Os serviços do Guia Fácil são fornecidos pela pessoa jurídica <strong>Uniprotel Eletrônica</strong>, inscrita no CNPJ/CPF sob o Nº 31.735.049/0001-16, titular da propriedade intelectual sobre o aplicativo Guia Fácil.
+            </div>
+        </header>
+
+        <main>
+            <h2>1. Do objeto</h2>
+            <p>A plataforma visa licenciar o uso de seu aplicativo e demais ativos de propriedade intelectual, fornecendo ferramentas para auxiliar e dinamizar o dia a dia dos seus usuários.</p>
+            <p>A plataforma caracteriza-se pela prestação do seguinte serviço: Fornecimento de programações detalhadas de produtos da marca HDL, com recursos de navegação por categorias, consulta de informações técnicas, e atualização de conteúdo sobre os produtos.</p>
+
+            <h2>2. Da aceitação</h2>
+            <p>O presente Termo estabelece obrigações contratadas de livre e espontânea vontade, por tempo indeterminado, entre a plataforma e as pessoas físicas ou jurídicas, usuárias do aplicativo.</p>
+            <p>Ao utilizar a plataforma o usuário aceita integralmente as presentes normas e compromete-se a observá-las, sob o risco de aplicação das penalidade cabíveis.</p>
+            <p class="highlight-box">A aceitação do presente instrumento é imprescindível para o acesso e para a utilização de quaisquer serviços fornecidos pela empresa. Caso não concorde com as disposições deste instrumento, o usuário não deve utilizá-los.</p>
+
+            <h2>3. Do acesso dos usuários</h2>
+            <p>Serão utilizadas todas as soluções técnicas à disposição do responsável pela plataforma para permitir o acesso ao serviço 24 (vinte e quatro) horas por dia, 7 (sete) dias por semana. No entanto, a navegação na plataforma ou em alguma de suas páginas poderá ser interrompida, limitada ou suspensa para atualizações, modificações ou qualquer ação necessária ao seu bom funcionamento.</p>
+
+            <h2>4. Do cadastro</h2>
+            <p>O acesso às funcionalidades da plataforma exigirá a realização de um cadastro prévio. Ao se cadastrar o usuário deverá informar dados completos, recentes e válidos, sendo de sua exclusiva responsabilidade manter referidos dados atualizados, bem como o usuário se compromete com a veracidade dos dados fornecidos.</p>
+            <p>O usuário se compromete a não informar seus dados cadastrais e/ou de acesso à plataforma a terceiros, responsabilizando-se integralmente pelo uso que deles seja feito.</p>
+            <p>Menores de 18 anos e aqueles que não possuírem plena capacidade civil deverão obter previamente o consentimento expresso de seus responsáveis legais para utilização da plataforma e dos serviços ou produtos, sendo de responsabilidade exclusiva dos mesmos o eventual acesso por menores de idade e por aqueles que não possuem plena capacidade civil sem a prévia autorização.</p>
+            <p>Mediante a realização do cadastro o usuário declara e garante expressamente ser plenamente capaz, podendo exercer e usufruir livremente dos serviços.</p>
+            <p>O usuário deverá fornecer um endereço de e-mail válido, através do qual o aplicativo realizará todas comunicações necessárias.</p>
+            <p>Após a confirmação do cadastro, o usuário possuirá um login e uma senha pessoal, a qual assegura ao usuário o acesso individual à mesma. Desta forma, compete ao usuário exclusivamente a manutenção de referida senha de maneira confidencial e segura, evitando o acesso indevido às informações pessoais.</p>
+            <p>Toda e qualquer atividade realizada com o uso da senha será de responsabilidade do usuário, que deverá informar prontamente a plataforma em caso de uso indevido da respectiva senha.</p>
+            <p>Não será permitido ceder, vender, alugar ou transferir, de qualquer forma, a conta, que é pessoal e intransferível.</p>
+            <p>Caberá ao usuário assegurar que o seu equipamento seja compatível com as características técnicas que viabilize a utilização da plataforma e dos serviços ou produtos.</p>
+            <p>O usuário poderá, a qualquer tempo, requerer o cancelamento de seu cadastro junto ao aplicativo Guia Fácil. O seu descadastramento será realizado o mais rapidamente possível.</p>
+            <p>O usuário, ao aceitar os Termos e Política de Privacidade, autoriza expressamente a plataforma a coletar, usar, armazenar, tratar, ceder ou utilizar as informações derivadas do uso dos serviços, do site e quaisquer plataformas, incluindo todas as informações preenchidas pelo usuário no momento em que realizar ou atualizar seu cadastro, além de outras expressamente descritas na Política de Privacidade que deverá ser autorizada pelo usuário.</p>
+
+            <h2>9. Do suporte</h2>
+            <p>Em caso de qualquer dúvida, sugestão ou problema com a utilização da plataforma, o usuário poderá entrar em contato com o suporte, através do e-mail: <strong>assistencia@uniproteleletronica.com.br</strong>.</p>
+            <p>Estes serviços de atendimento ao usuário estarão disponíveis nos seguintes dias e horários:<br>
+            <strong>Segunda a Sexta-feira:</strong> das 08:00 às 12:00 | das 13:30 às 17:30.</p>
+
+            <h2>10. Das responsabilidades</h2>
+            <p><strong>É de responsabilidade do usuário:</strong></p>
+            <ul>
+                <li>Defeitos ou vícios técnicos originados no próprio sistema do usuário;</li>
+                <li>A correta utilização da plataforma, dos serviços ou produtos oferecidos, prezando pela boa convivência, pelo respeito e cordialidade entre os usuários;</li>
+                <li>Pelo cumprimento e respeito ao conjunto de regras disposto nesse Termo de Condições Geral de Uso, na respectiva Política de Privacidade e na legislação nacional e internacional;</li>
+                <li>Pela proteção aos dados de acesso à sua conta/perfil (login e senha).</li>
+            </ul>
+            
+            <p><strong>É de responsabilidade da plataforma Guia Fácil:</strong></p>
+            <ul>
+                <li>Indicar as características do serviço ou produto;</li>
+                <li>Os defeitos e vícios encontrados no serviço ou produto oferecido desde que lhe tenha dado causa;</li>
+                <li>As informações que foram por ele divulgadas, sendo que os comentários ou informações divulgadas por usuários são de inteira responsabilidade dos próprios usuários;</li>
+                <li>Os conteúdos ou atividades ilícitas praticadas através da sua plataforma.</li>
+            </ul>
+            <p>A plataforma não se responsabiliza por links externos contidos em seu sistema que possam redirecionar o usuário à ambiente externo a sua rede.</p>
+
+            <h2>11. Dos direitos autorais</h2>
+            <p>O presente Termo de Uso concede aos usuários uma licença não exclusiva, não transferível e não sublicenciável, para acessar e fazer uso da plataforma e dos serviços e produtos por ela disponibilizados.</p>
+            <p>A estrutura do aplicativo, as marcas, logotipos, nomes comerciais, layouts, gráficos e design de interface, imagens, ilustrações, fotografias, apresentações, vídeos, conteúdos escritos e de som e áudio, programas de computador, banco de dados, arquivos de transmissão e quaisquer outras informações e direitos de propriedade intelectual da razão social Uniprotel Eletrônica, observados os termos da Lei da Propriedade Industrial (Lei nº 9.279/96), Lei de Direitos Autorais (Lei nº 9.610/98) e Lei do Software (Lei nº 9.609/98), estão devidamente reservados.</p>
+            <p>Este Termos de Uso não cede ou transfere ao usuário qualquer direito, de modo que o acesso não gera qualquer direito de propriedade intelectual ao usuário, exceto pela licença limitada ora concedida.</p>
+            <p>O uso da plataforma pelo usuário é pessoal, individual e intransferível, sendo vedado qualquer uso não autorizado, comercial ou não-comercial. Tais usos consistirão em violação dos direitos de propriedade intelectual da razão social Uniprotel Eletrônica puníveis nos termos da legislação aplicável.</p>
+
+            <h2>12. Das sanções</h2>
+            <p>Sem prejuízo das demais medidas legais cabíveis, a razão social Uniprotel Eletrônica poderá, a qualquer momento, advertir, suspender ou cancelar a conta do usuário:</p>
+            <ul>
+                <li>Que violar qualquer dispositivo do presente Termo;</li>
+                <li>Que descumprir os seus deveres de usuário;</li>
+                <li>Que tiver qualquer comportamento fraudulento, doloso ou que ofenda a terceiros.</li>
+            </ul>
+
+            <h2>13. Da rescisão</h2>
+            <p>A não observância das obrigações pactuadas neste Termo de Uso ou da legislação aplicável poderá, sem prévio aviso, ensejar a imediata rescisão unilateral por parte da razão social Uniprotel Eletrônica e o bloqueio de todos os serviços prestados ao usuário.</p>
+            <p>Os serviços oferecidos podem, a qualquer tempo e unilateralmente, e sem qualquer aviso prévio, ser deixados de fornecer, alterados em suas características, bem como restringido para o uso ou acesso.</p>
+
+            <h2>15. Da política de privacidade</h2>
+            <p>Além do presente Termo, o usuário deverá consentir com as disposições contidas na respectiva Política de Privacidade a ser apresentada a todos os interessados dentro da interface da plataforma.</p>
+        </main>
+
+        <footer>
+            <p>&copy; 2026 Uniprotel Eletrônica - Aplicativo Guia Fácil. Todos os direitos reservados.</p>
+        </footer>
+    </div>
+
+</body>
+</html>
